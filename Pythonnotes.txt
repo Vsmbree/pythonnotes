@@ -1,0 +1,88 @@
+we have to run the de bugger and find this out
+something is happening here
+
+switch the variables
+issue-it skips 0. It's skipping two seprate values
+
+
+
+if reset the N it still runs.
+N is not nesscary to declare
+
+comment alittle more so you can have an idea of what you did
+perhaps your tracking something and waht to mutlipte the statement then you ca us or and (and)
+ 
+python reads code line by line
+make sure you can come up with your own solutions
+
+without the a has not problem take thjat value and resend it to another variable to mulinupulate
+
+
+string - characters in a format
+
+a gentic for loop never has to generate
+
+implement your wild loop
+ 
+study type of number and what it is.
+
+
+z=7
+for x in [3,7,8]
+z = z*x
+Print(n)
+
+if your ever having trouble with logic. Just put print z you would get the vlaue of z
+print z tell you the value of n 
+not wrting any code
+
+multiple choice
+in/int= int
+int/float = float
+float/float = float
+
+if I try to add a string to an int that would would be in the print line( a straight sentence)
+int-interger
+
+the wheel and the order things go study waterfall an all the other methodlogies 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
